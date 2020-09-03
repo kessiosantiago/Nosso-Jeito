@@ -1,7 +1,6 @@
-# Nosso-Jeito
-###SISTEMA DE ENVIO DE FORMULÁRIO COM CADASTRO E LOGIN PHP & MYSQL.
+### SISTEMA DE ENVIO DE FORMULÁRIO COM CADASTRO E LOGIN PHP & MYSQL.
 
-# sistema FuncionamentoL 
+# Funcionamento do Sistema
 
 Web App com sessão, HTML, CSS, JAVASCRIPT, guardando os cadastros dos usuários no banco de dados MYSQL através do PDO e PHP orientado a objetos.
 
